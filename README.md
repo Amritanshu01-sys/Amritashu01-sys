@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi, I'm Amritanshu Kumar Shukla 👋<br><br>🎓 BCA — Data Science | 3rd Year<br>🏫 CMP Degree College, University of Allahabad<br><br>I'm a tech enthusiast with a strong interest in Python, Cyber Security, and Networking.<br><br>I enjoy learning new technologies, exploring how things work, and building my skills through hands-on practice.<br><br>Focus Areas<br><br>Python<br>Cyber Security<br>Networking<br>Data Science<br><br>Learn. Explore. Build.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritanshu-kumar-shukla-b294bb202?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amritanshu85430@gmail.com) 
